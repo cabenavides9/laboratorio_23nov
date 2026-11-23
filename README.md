@@ -11,4 +11,9 @@
 
 * Objetivo: Realizar práctica de versionamiento usando caso de prueba de desarrollo de un portal web para la empresa Aulatech
 
-* Tecnologías Utilizadas: HTML5, JavaScript, CSS. Git y Github para versionamiento. Editor VS Code. Appserv para servidor local.
+* Tecnologías Utilizadas: HTML5, CSS. Git y Github para versionamiento. Editor VS Code. Appserv para servidor local.
+
+## Control de Versiones
+* 1: Crear estructura inicial del portal web (HTML + CSS)
+* 2: Añadir formulario HTML
+* 3: Dar estilo al formulario mediante CSS
